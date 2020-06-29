@@ -14,6 +14,7 @@ export default function Login() {
   const history = useHistory();
 
   const checkUserID = (loginID) => {
+    //Get userdata and questondata and validate login. Also display loader.
     document.querySelector(".loader").style.display = "block";
     document.querySelector("input").style.display = "none";
     document.querySelector("button").style.display = "none";
@@ -46,12 +47,9 @@ export default function Login() {
   return (
     <div className="login-component login">
       <form className="credentials" onSubmit={(e) => e.preventDefault()}>
-        <h2>Enter User ID To Play</h2>
+        <h2>Enter Your User ID To Play</h2>
         <div id="login-error">
-          <p>
-            Error: Username not found <br />
-            (Please look in _DATA.js in the repo and enter a 'users.id' )
-          </p>
+          <p>Error: Username not found</p>
         </div>
         <Loader />
         <input
