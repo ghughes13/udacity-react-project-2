@@ -2,6 +2,10 @@ This app allows you to play a game called would you rather where you choose betw
 
 To start -> run 'npm install' -> run 'npm start' -> check 'localhost:3000'
 
-To log in, just grab one of the users ID's from _DATA.js and enter it into the login screen.
+To log in, use one of the following User IDs:
+- sarahedo
+- tylermcginnis
+- johndoe
 
---><a href="https://dgcb6.csb.app/">View Project</a><--
+--><a href="https://codesandbox.io/s/ghughes13would-you-rather-1i9dv?file=/src/index.js">View Project</a><--
+Hosted on Codesandbox.
