@@ -8,4 +8,4 @@ To log in, use one of the following User IDs:
 - johndoe
 
 --><a href="https://codesandbox.io/s/ghughes13would-you-rather-1i9dv?file=/src/index.js">View Project</a><--
-Hosted on Codesandbox.
+<br/> Hosted on Codesandbox.
