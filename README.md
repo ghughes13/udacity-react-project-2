@@ -10,4 +10,4 @@ To start -> run 'npm install' -> run 'npm start' -> check 'localhost:3000'
 OR 
 
 --><a href="https://codesandbox.io/s/ghughes13would-you-rather-1i9dv?file=/src/index.js">View Project Demo</a><--
-<br/> Hosted on Codesandbox.
+<br/> (Hosted on Codesandbox)
